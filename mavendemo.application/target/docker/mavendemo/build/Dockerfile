@@ -1,0 +1,4 @@
+FROM cee/bwce:234
+MAINTAINER cee
+EXPOSE 8080
+COPY maven /
